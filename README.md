@@ -1,5 +1,5 @@
 # Odin Recipes
-First project of [The Odin Project](https://www.theodinproject.com) course.
+Simple project following the course of [The Odin Project](https://www.theodinproject.com).
 
 ## Live
 ![demo](imgs/demo.png)
