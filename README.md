@@ -1,7 +1,7 @@
 # Odin Recipes
 Simple project following the course of [The Odin Project](https://www.theodinproject.com).
 
-## Live
+## Live:
 ![demo](imgs/demo-0.png)
 
 ### Resources:
