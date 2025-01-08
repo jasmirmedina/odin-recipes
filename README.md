@@ -1,4 +1,4 @@
-# Odin Recipes
+# Recipes
 Simple project following the course of [The Odin Project](https://www.theodinproject.com).
 
 ## Live:
